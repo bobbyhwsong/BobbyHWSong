@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 # Hyung Woo Song
 ## Interest
-🔭 Human Computer Interaction
-🔬 Recommender System
-🧑‍🔬 Natural Language Processing
-🤔 Causal Inference
+- 🔭 Human Computer Interaction
+- 🔬 Recommender System
+- 🧑‍🔬 Natural Language Processing
+- 🤔 Causal Inference
 
 ## Social
-📖 Blog :      [BHWS](https://bobbyhwsong.github.io) -->
-📷 Instagram : [bob_ography](https://www.instagram.com/bob_ography/)
+- 📖 Blog :      [BHWS](https://bobbyhwsong.github.io)
+- 📷 Instagram : [bob_ography](https://www.instagram.com/bob_ography/)
