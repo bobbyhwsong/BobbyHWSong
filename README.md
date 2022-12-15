@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 # HyungWoo Song
-## @bobbyhwsong
 - 🔭 Human Computer Interaction
 - 🤔 Recommender System
 
