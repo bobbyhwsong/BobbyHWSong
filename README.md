@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# HyungWoo Song
+## HyungWoo Song
 - 🔭 Human Computer Interaction
 - 🤔 Recommender System
+- 🧑‍🔬 Natural Language Processing
+- 🔬 Causal Inference
 
 ## Contact
 - Blog :      [BHWS](https://bobbyhwsong.github.io)
