@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 
 # HyungWoo Song
 ## @bobbyhwsong
+- 🔭 Human Computer Interaction
+- 🤔 Recommender System
 
-## Blog
-- [BHWS](https://bobbyhwsong.github.io)
+## Contact
+- Blog :      [BHWS](https://bobbyhwsong.github.io)
+- Instagram : [bob_ography](https://www.instagram.com/bob_ography/)
+- Email :     rotto95@snu.ac.kr
