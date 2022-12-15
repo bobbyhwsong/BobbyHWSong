@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## HyungWoo Song
+# Hyung Woo Song
+## Interest
 - 🔭 Human Computer Interaction
 - 🤔 Recommender System
 - 🧑‍🔬 Natural Language Processing
